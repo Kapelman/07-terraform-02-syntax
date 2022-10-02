@@ -199,7 +199,7 @@ commands will detect it and remind you to do so if necessary.
 1. Ссылку на репозиторий с исходной конфигурацией терраформа.  
  
 Решение:
-
+- свой образ ami можно собрать при помощи PACKER
 - заполним файл
 ```
 vagrant@vagrant:~/terraform-02$ cat main.tf
